@@ -1,0 +1,4 @@
+skeleton
+========
+
+Project skeleton
