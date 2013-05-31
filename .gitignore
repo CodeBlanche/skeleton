@@ -1,0 +1,7 @@
+.AppleDouble
+.DS_Store
+.idea
+docs
+build
+vendor/*
+*.lock
