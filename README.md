@@ -1,4 +1,4 @@
-skeleton
+Skeleton
 ========
 
 Project skeleton
