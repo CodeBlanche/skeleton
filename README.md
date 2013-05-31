@@ -1,4 +1,0 @@
-Skeleton
-========
-
-Project skeleton
